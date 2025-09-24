@@ -160,31 +160,33 @@ file: (PDF/DOC upload)
 
 
 # Setup Instructions
-1. Clone the Repository
-git clone https://github.com/your-username/MOUTracker.git
 
-cd MOUTracker
+1. Clone the Repository
+  git clone https://github.com/your-username/MOUTracker.git
+
+  cd MOUTracker
 
 2. Backend Setup
 
-cd backend
+  cd backend
 
-npm install
+  npm install
 
-node server.js
+  node server.js
 
 
-Runs on http://localhost:5000
+  Runs on http://localhost:5000
 
 3. Frontend Setup
    
-cd frontend
+  cd frontend
 
-npm install
+  npm install
 
-npm start
+  npm start
 
-Runs on http://localhost:3000
+  Runs on http://localhost:3000
+
 
 
 
