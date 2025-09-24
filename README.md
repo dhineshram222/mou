@@ -163,7 +163,7 @@ file: (PDF/DOC upload)
 
  Clone the Repository:
  
-  
+  https://github.com/dhineshram222/mou.git
 
   cd MOUTracker
 
@@ -183,6 +183,7 @@ Frontend Setup:
   npm install
 
   npm start
+
 
 
 
