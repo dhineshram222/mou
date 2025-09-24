@@ -6,6 +6,8 @@ The system centralizes MOU records by storing metadata (institute, faculty, dura
 
 This project is a prototype for small academic departments or institutions, built with React (frontend) and Node.js/Express (backend), with Excel file storage for simplicity.
 
+---
+
 # Features
 
 User Registration & Login (basic authentication).
@@ -15,6 +17,8 @@ Filter MOUs by faculty, institute, academic year, or duration.
 Export filtered results as Excel file.
 Notifications for upcoming expiry dates.
 View/download signed MOU files from uploads/ folder.
+
+---
 
 # Tech Stack
 
@@ -29,6 +33,8 @@ MOU Records → mou_data.xlsx
 User Accounts → users.json
 
 Signed Documents → uploads/ folder
+
+---
 
 # Workflow
 
@@ -60,7 +66,7 @@ System checks expiry dates based on AddedDate + Duration.
 
 Shows alerts for MOUs nearing expiry.
 
-
+---
 
 # API Endpoints
 
@@ -151,4 +157,5 @@ file: (PDF/DOC upload)
 * Returns the actual signed MOU document (PDF/DOC).
 
 ---
+
 
