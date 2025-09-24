@@ -8,13 +8,13 @@ This project is a prototype for small academic departments or institutions, buil
 
 # Features
 
-User Registration & Login (basic authentication)
-Add new MOUs with details + signed document upload
-Store metadata in Excel (mou_data.xlsx)
-Filter MOUs by faculty, institute, academic year, or duration
-Export filtered results as Excel file
-Notifications for upcoming expiry dates
-View/download signed MOU files from uploads/ folder
+User Registration & Login (basic authentication).
+Add new MOUs with details + signed document upload.
+Store metadata in Excel (mou_data.xlsx).
+Filter MOUs by faculty, institute, academic year, or duration.
+Export filtered results as Excel file.
+Notifications for upcoming expiry dates.
+View/download signed MOU files from uploads/ folder.
 
 # Tech Stack
 
@@ -60,17 +60,7 @@ System checks expiry dates based on AddedDate + Duration.
 
 Shows alerts for MOUs nearing expiry.
 
-Yes ✅ — you **should definitely add the API endpoints with request/response details** to your README.
 
-Here’s why:
-
-* **Interview benefit:** It shows you clearly understand your backend APIs, not just the code.
-* **Documentation standard:** A good README always includes API specifications for anyone who wants to test or extend your project.
-* **Clarity:** Future developers (or you later) can quickly understand what endpoints exist, what inputs they expect, and what outputs they produce.
-
-👉 My suggestion: Add a section like this in your README:
-
----
 
 # API Endpoints
 
@@ -161,6 +151,4 @@ file: (PDF/DOC upload)
 * Returns the actual signed MOU document (PDF/DOC).
 
 ---
-
-Would you like me to **rewrite your README** with these endpoints fully integrated (formatted + structured), so you can directly use it?
 
