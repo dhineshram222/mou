@@ -166,19 +166,25 @@ git clone https://github.com/your-username/MOUTracker.git
 cd MOUTracker
 
 2. Backend Setup
+
 cd backend
+
 npm install
+
 node server.js
 
 
 Runs on http://localhost:5000
 
 3. Frontend Setup
+   
 cd frontend
+
 npm install
+
 npm start
 
-
 Runs on http://localhost:3000
+
 
 
