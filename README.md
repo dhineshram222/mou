@@ -167,7 +167,7 @@ file: (PDF/DOC upload)
 
   cd MOUTracker
 
-Backend Setup
+Backend Setup:
 
   cd backend
 
@@ -176,13 +176,14 @@ Backend Setup
   node server.js
 
 
-Frontend Setup
+Frontend Setup:
    
   cd frontend
 
   npm install
 
   npm start
+
 
 
 
